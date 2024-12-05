@@ -6,6 +6,9 @@
 
 ### 🎉 New features
 
+- [Android][iOS] Add support for listing available video tracks and currently played video track.
+- [Android][iOS] Add `sourceLoad` event.
+
 ### 🐛 Bug fixes
 
 ### 💡 Others

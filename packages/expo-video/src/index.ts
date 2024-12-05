@@ -16,6 +16,9 @@ export {
   DRMOptions,
   BufferOptions,
   AudioMixingMode,
+  VideoSize,
+  SubtitleTrack,
+  VideoTrack,
 } from './VideoPlayer.types';
 
 export {
