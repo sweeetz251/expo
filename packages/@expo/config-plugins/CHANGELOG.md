@@ -13,6 +13,8 @@
 
 ### 💡 Others
 
+- Add a hint for config plugin resolution error ([#33554](https://github.com/expo/expo/pull/33554) by [@vonovak](https://github.com/vonovak))
+
 ## 9.0.10 — 2024-11-24
 
 ### 💡 Others
